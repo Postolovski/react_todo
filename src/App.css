@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to right, #4b6cb7, #182848);
+  color: #FFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  text-shadow: 1px 1px 10px #000;
+}
+
+
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  cursor: pointer;
+}
+

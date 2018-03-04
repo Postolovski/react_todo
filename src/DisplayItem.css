@@ -1,0 +1,8 @@
+.done {
+	text-decoration: line-through;
+	color: #bcbcbc;
+}
+
+#btn {
+	margin-left: 20px;
+}
